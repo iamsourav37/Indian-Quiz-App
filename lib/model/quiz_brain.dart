@@ -40,5 +40,9 @@ List<Question> bank = [
       "Morarji Desai",
       "Manmohan Singh",
       "Manmohan Singh"),
+  Question.setQuestion("India's largest city by population", "Delhi", "Chennai",
+      "Mumbai", "Pune", "Mumbai"),
+  Question.setQuestion("'Dandia' is a popular dance of", "Gujrat", "Punjab",
+      "Haryana", "Maharashtra", "Punjab")
   // Question.setQuestion(questionText, option1, option2, option3, option4, answer),
 ];
